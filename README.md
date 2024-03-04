@@ -1,2 +1,2 @@
 # boookbot
-Bookbot is my first git project!
+Count how many words and how many letters inside a text file.
